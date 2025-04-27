@@ -2,7 +2,7 @@
 
 <div align="center">
 <h2 text-align="center">
-🔥"A video game store website developed using HTML, CSS, and JavaScript, adhering to all coding principles to ensure optimal functionality and design😎</h2>
+🔥A video game store website developed using HTML, CSS, and JavaScript, adhering to all coding principles to ensure optimal functionality and design😎</h2>
 <p>A detailed view of the core section of the template, highlighting its essential design and functionality:</p>
 <img src="./src/images/pic1.png"></a>
 </div>
