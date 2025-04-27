@@ -2,26 +2,26 @@
 
 <div align="center">
 <h2 text-align="center">
-🔥A store website based on html, css and javascript with the topic of selling video games, where all coding principles are observed😎</h2>
-<p>A view of the main part of the template:</p>
+🔥"A video game store website developed using HTML, CSS, and JavaScript, adhering to all coding principles to ensure optimal functionality and design😎</h2>
+<p>A detailed view of the core section of the template, highlighting its essential design and functionality:</p>
 <img src="./src/images/pic1.png"></a>
 </div>
 
 <div align="center">
-<p>This website is equipped with a very professional store section that you can expand further😏:</p>
+<p>This website features a highly professional store section that can be further expanded to accommodate additional functionalities and offerings😏:</p>
 <img src="./src/images/pic2.png"></a>
 </div>
 
 <div align="center">
-<p>In the purchase section of a product, all the details of the product can be viewed and changed, which provides better facilities to the customer:</p>
+<p>In the product purchase section, all details can be viewed and modified, ensuring enhanced convenience and functionality for the customer:</p>
 <img src="./src/images/pic3.png"></a>
 </div>
 
 <div align="center">
-<p>This template is equipped with a user dashboard where customers can see all their purchase records or make changes to their account.</p>
+<p>This template includes a comprehensive user dashboard, allowing customers to review their purchase history and manage account settings with ease.</p>
 <img src="./src/images/pic4.png"></a>
 </div>
 
 <div align="center">
-<p>And finally, I will be very happy if you rate the project❤️</p>
+<p>Finally, I would be delighted if you could rate the project❤️</p>
 </div>
